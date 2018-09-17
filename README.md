@@ -2,6 +2,6 @@
 
 Проект [Woow.fail](https://Woow.fail).
 
-Автор: [Ramiz Ibragimov](https://github.com/RamizIb).
+Автор: [RamizIb](https://github.com/RamizIb).
 
 Django
